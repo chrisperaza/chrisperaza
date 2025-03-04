@@ -1,4 +1,6 @@
-# Hi, my name is Christian 👋
+## Hi, my name is Christian 👋
+
+<img src='https://res.cloudinary.com/dx29auvvm/image/upload/v1741106438/github-banner-christian-peraza_tmisny.png' />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
