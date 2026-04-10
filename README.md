@@ -2,7 +2,7 @@
 
 <!-- <img src='https://res.cloudinary.com/dx29auvvm/image/upload/v1741107797/github-banner-christian-peraza_wkuuur.png' /> -->
 
-As an Applied Technology Associate of Applied Science (AAS) Graduate: Software Development, I am passionate about imagining, designing, and developing exceptional digital experiences for users.
+Currently, I am a student at BYU-Pathway Worldwide pursuing a Bachelor Degree in Software Development. I am passionate about technology and design, which is why I want to become a web developer. My goal is to design and develop web applications that provide exceptional user experiences and facilitate or support specific tasks. ⛵
 
 ### ⌨️ Programming languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
