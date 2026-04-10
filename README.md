@@ -1,8 +1,8 @@
 <!-- ## Hi, I'm Christian 👋 -->
 
-<img src='https://res.cloudinary.com/dx29auvvm/image/upload/v1741107797/github-banner-christian-peraza_wkuuur.png' />
+<!-- <img src='https://res.cloudinary.com/dx29auvvm/image/upload/v1741107797/github-banner-christian-peraza_wkuuur.png' /> -->
 
-As a current student at BYU-Idaho, and a future Bachelor in Applied Technology, I am passionate about imagining, designing and developing exceptional digital experiences for users.
+As an Applied Technology Associate of Applied Science (AAS) Graduate in Software Development, I am passionate about imagining, designing, and developing exceptional digital experiences for users.
 
 ### ⌨️ Programming languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
